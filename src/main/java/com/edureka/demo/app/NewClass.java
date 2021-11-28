@@ -6,4 +6,5 @@ public class NewClass {
 	public void f2() {}
 	
 	public void f3() {}
+	//
 }
