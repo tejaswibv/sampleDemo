@@ -7,4 +7,5 @@ public class NewClass {
 	
 	public void f3() {}
 	//
+	//test git polling
 }
