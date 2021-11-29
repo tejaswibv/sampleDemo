@@ -9,5 +9,6 @@ public class TemplateTest {
 	public void doTest() {
 		Template temp = null;
 		//assertNotNull(temp);
+		//test polling
 	}
 }
