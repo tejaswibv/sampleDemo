@@ -6,4 +6,6 @@ public class Template {
 	}
 	
 	//added a comment
+	
+	//added feature related code
 }
