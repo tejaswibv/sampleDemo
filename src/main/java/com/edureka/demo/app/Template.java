@@ -4,4 +4,6 @@ public class Template {
 	public static void main(String args[]) {
 		System.out.println("main class");
 	}
+	
+	//added a comment
 }
